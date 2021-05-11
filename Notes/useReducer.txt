@@ -1,0 +1,41 @@
+useReducer is a hook which is used for state management.
+it is an alternative for useState.
+what's the difference?
+useState is built using useReducer.
+when to useReducer vs useState?
+
+useReducer = reducers
+
+reduce() method executes a reducer function(that you provide) on each element of the array,resulting in single output value.
+
+reduce vs useReducer
+
+         reduce                              useReducer
+  array.reduce(reducer,initialValue)          useReducer(reducer,initialState)   
+
+  singleValue = reducer(accumulator,itemvalue) newState = reducer(currentState,action)
+
+
+reducer returns a single value          usereducers rerurn a pair of values [newState,dispatch]
+
+//Summary
+useReducer is a hook which is used for state management.
+useReducer is related to reducer functions.
+useReducer(reducer,initialState)
+reducer(currentState,action)
+
+
+useState Vs useReducer:-
+
+Both are used for state management
+
+useState is better option when Type of state is Number,String,Boolean.
+useReducer is a better option when type of state is array and object.
+
+if number of State transition is 1 or 2 useState is better otherwise UseReducer is better option.
+
+if related state transitions are ther useReducer is better than useState
+
+if there is complex business logic usereducer is better option useState is useful if there is no ligic we have to use.
+
+useReducer is used when we have to do Global state managemnt.UseState is good gor local state management.

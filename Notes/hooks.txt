@@ -1,0 +1,7 @@
+1.Hooks are the new feature introduced in the React 16.8 version.
+
+2.It allows you to use state and other react features without writing a class.Hooks are the functions which "hook into" React state and lifecycle features from function components.
+
+3.It doesn't work with the classes.
+
+4.Hooks should always be used in the top level of the React functions.

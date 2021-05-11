@@ -1,0 +1,6 @@
+if we have multiple func to export then use
+export default func
+exports {func1,func2,func3}.
+
+and import by using:-
+import func {func1,func2,func2}

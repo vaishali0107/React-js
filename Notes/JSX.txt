@@ -1,0 +1,11 @@
+JSX is javascript XML
+
+JSX stands for JavaScript XML. It is a React extension which allows writing JavaScript code that looks similar to HTML. It makes HTML file easy to understand. The JSX file makes the React application robust and boosts its performance. JSX provides you to write XML-like syntax in the same file where you write JavaScript code, and then preprocessor (i.e., transpilers like Babel) transform these expressions into actual JavaScript code. Just like XML/HTML, JSX tags have a tag name, attributes, and children.
+
+for returning multiple elements we use <React.fragment></React.Fragment>or<></>.
+
+JSX Expressions in React:-
+we use {} for exp in JSX.
+
+JSX Attribute:- similar to HTML atrributes but it follos camelCase convention.
+

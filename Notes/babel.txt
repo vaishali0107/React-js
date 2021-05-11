@@ -1,0 +1,1 @@
+Babel works as both Compiler and transpiler which converts our modern javascript to tha js which browser can understand.i.e. it converts the JSX to regular javascript.

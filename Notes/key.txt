@@ -1,0 +1,1 @@
+key in map function is provided so that react can identify which item is changed while performing the map function 

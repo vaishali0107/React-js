@@ -1,0 +1,15 @@
+const array = ["c","c++","R","ruby","python"];
+
+In ES6
+let [a1,a2,a3,a4,a5]=array
+now a1=c  
+a2=c++   
+a3= R  
+a4  =  ruby  
+a5  = python  
+
+
+suppose
+array.length=5
+
+let[top1,,,,top5]=array

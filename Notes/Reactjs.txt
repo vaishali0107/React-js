@@ -1,0 +1,29 @@
+Reactjs is a javascript library for building User Interfaces.
+Reactjs is a library not framework.
+it is also known as React.js.
+
+React History:-
+it was developed by jorden Walke a s/w eng. in facebook.
+It was deployed for facebook newsfeedaround 2011.
+In 2013,React was open source at js conference.
+
+About React:-
+
+Component based approach-
+A component is one of the core building blocks of React.In other words,we can say that every application you will build,will be made of pieces called components.Components make the task of building UI's much easier.it is much useful in avoiding repetation.
+
+Uses a Declarative Approach-
+it is a programming paradigm where only e express the logic of computation without knoing its actual control-flow.
+
+Dom updates are handeled very gracefully.
+
+Reusable code.
+
+React is designed for speed,speed of implementing the application simplicity and scalability.
+
+
+Why React?:-
+
+created and maintained by Facebook.
+huge community on github.
+component based approach.

@@ -1,0 +1,1 @@
+useState is a hook which allows you to have state in functional components.You pass the initial state to this function and it returns a array with current state value and another function to update this value.

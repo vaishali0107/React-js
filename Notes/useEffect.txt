@@ -1,0 +1,1 @@
+using this hook you tell react that your component needs to do something after render..React will remember that function you passed and call it later after tha DOM updates,In this effect we set the title of the document but we could also preform data fetching and call some other imperative API.
